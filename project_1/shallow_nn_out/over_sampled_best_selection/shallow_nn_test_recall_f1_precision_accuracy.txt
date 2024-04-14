@@ -1,0 +1,4 @@
+Test recall: 0.7848837209302325
+Test f1: 0.7258064516129032
+Test precision: 0.675
+Test accuracy: 0.9989767563175266
